@@ -1,0 +1,10 @@
+name: stockvis
+title:
+username:
+account: wjsutton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 380855
+bundleId: 1480340
+url: https://wjsutton.shinyapps.io/stockvis/
+when: 1531551705.99426
